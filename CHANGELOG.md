@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.3.0](https://www.github.com/googleapis/java-analytics-admin/compare/v0.2.5...v0.3.0) (2021-01-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove unused fields from `EnhancedMeasurementSettings` (#137)
+
+### Bug Fixes
+
+* remove unused fields from `EnhancedMeasurementSettings` ([#137](https://www.github.com/googleapis/java-analytics-admin/issues/137)) ([db86b2e](https://www.github.com/googleapis/java-analytics-admin/commit/db86b2e05c7ce24726fab29500fb74018c3018da))
+
+
+### Documentation
+
+* put markdown table in a codeblock ([#132](https://www.github.com/googleapis/java-analytics-admin/issues/132)) ([15ccf20](https://www.github.com/googleapis/java-analytics-admin/commit/15ccf20bf20791d2a0192d67302e40a46a5cf432))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.18.0 ([#136](https://www.github.com/googleapis/java-analytics-admin/issues/136)) ([6d52546](https://www.github.com/googleapis/java-analytics-admin/commit/6d52546b2fc5703571801d5b8045574ad9985bf1))
+
 ### [0.2.5](https://www.github.com/googleapis/java-analytics-admin/compare/v0.2.4...v0.2.5) (2020-12-15)
 
 
